@@ -17,3 +17,11 @@
 
   2) Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
       - Scikit-Learn is focused on data modelling and not data visualization, so it relies on other libraries such as Graphviz to fill this gap.
+
+**7/9/21 (Day 4):**
+
+  **Issue:** Mismanagement of waste due to the placement of trash items in the wrong bins can have dangerous consequences for our natural environment.
+  
+  **Dataset:** https://www.kaggle.com/techsash/waste-classification-data
+  
+  **Model:** A convolutional neural network would be the best model to choose for this situation, since it could be used to analyze a photo taken of the user's trash item and identify which bin it should be placed in.
