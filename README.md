@@ -33,3 +33,12 @@
 
   2) What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
       - Running models in TensorFlow often requires preprocessing of the data to ensure that there is no bias towards certain categories or distracting features that may lower accuracy.
+
+**7/15/21 (Day 10):**
+  1) How do you think Machine Learning or AI concepts were utilized in the design of this game?
+
+     - A machine learning model was trained to mimic your hiring method based on your early hiring decisions.
+
+  2) Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+
+     - Facial recognition models such as Face ID on Apple’s iPhone are biased in their identification of users’ faces. They are often trained on datasets that are heavily dominated by Caucasian features and, as a result, are less accurate in recognizing users of different ethnicities. To fix this issue, it is necessary for them to even out their training data distribution by adding more images from a variety of ethnicities.
