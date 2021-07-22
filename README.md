@@ -42,3 +42,8 @@
   2) Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 
      - Facial recognition models such as Face ID on Apple’s iPhone are biased in their identification of users’ faces. They are often trained on datasets that are heavily dominated by Caucasian features and, as a result, are less accurate in recognizing users of different ethnicities. To fix this issue, it is necessary for them to even out their training data distribution by adding more images from a variety of ethnicities.
+
+
+**7/16/21 (Day 11):**
+
+  Convolutional neural networks reduce matrices to lower dimensions before performing operations while fully connected neural networks connect every neuron to each neuron in the layer after it. The convolutional layer performs operations on smaller sections of the input matrix while the pooling layer reduces the number of dimensions in the matrix. Convolutional networks are used when only specific features of an image need to be analyzed for recognition while fully connected networks are needed when the entirety of an input image must be analyzed.
