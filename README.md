@@ -47,3 +47,7 @@
 **7/16/21 (Day 11):**
 
   Convolutional neural networks reduce matrices to lower dimensions before performing operations while fully connected neural networks connect every neuron to each neuron in the layer after it. The convolutional layer performs operations on smaller sections of the input matrix while the pooling layer reduces the number of dimensions in the matrix. Convolutional networks are used when only specific features of an image need to be analyzed for recognition while fully connected networks are needed when the entirety of an input image must be analyzed.
+  
+**7/20/21 (Day 15):**
+
+  The ReLu function is advantageous because it is easy to incorporate in a model and isn't hindered by issues such as the vanishing gradient that interfered in the training of previously popular activation functions. It is also extremeley similar to a linear activation function, making it easy to optimize for a neural network. One use case for the ReLu function is a Convolutional Neural Network, where it helps prevent expotential computational power growth that is often caused by non-linear activation functions.
